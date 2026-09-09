@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.home-sec{
+    padding: 5px;
+    height: 70px;
+    width: 100;
+}
+
+nav{
+    font-family: verdana;
+    color: white;
+    margin: 0%;
+}
+
+.left{
+    cursor: pointer;
+}
+
+.left > h3{
+    margin: 0px 0px 0px 0px;
+}
+
+.logo {
+    color: rgb(127, 8, 107);
+}
+
+.center a{
+    border: none;
+
+}
+
+a:hover>:nth-child(1){
+    border-bottom: 3px solid purple;
+}
+
+
+.right button{
+    background: linear-gradient(to right, #6d5dfc, #f45cf6);
+    border: none;
+    font-weight: bold;
+    font-family: calibri;
+}
+
