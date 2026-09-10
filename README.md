@@ -530,7 +530,7 @@ I am a passionate web developer interested in creating modern, responsive and us
 
 ## 🌐 GitHub Link
 
-**GitHub Repository:** 
+**GitHub Repository:** https://github.com/shivangpandya1515-code/React-Portfolio.git
 
 ---
 
