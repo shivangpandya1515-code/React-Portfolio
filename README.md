@@ -6,12 +6,6 @@ This portfolio is designed to showcase my skills, projects, professional informa
 
 ---
 
-## 🌐 GitHub Link
-
-**GitHub Repository:** 
-
----
-
 ## 📌 Project Overview
 
 This project is a personal developer portfolio website created to showcase my frontend development skills and projects.
@@ -530,6 +524,26 @@ I am a passionate web developer interested in creating modern, responsive and us
 * React.js
 * Git
 * GitHub
+
+---
+
+## 🌐 GitHub Link
+
+**GitHub Repository:** 
+
+---
+
+## 📸 Video link and O/P photos
+
+**Video Link**: https://docs.google.com/videos/d/10GTEi25DGTYKAPR83xTjQFtF3704dD3cJaMh0FYbYYg/play?usp=sharing
+
+**Photos**
+
+* Home:  ![](./public/Home.png)
+* About:  ![](./public/About.png)
+* My-Skills:  ![](./public/My-Skills.png)
+* Pojects:  ![](./public/Projects.png)
+* Contact:  ![](./public/Footer.png)
 
 ---
 
